@@ -1,2 +1,2 @@
 # projetoHubFerramentas
-o repositorio do projeto de projeto interface
+projeto pra aula de projeto interface.
